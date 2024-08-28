@@ -11,7 +11,7 @@ such as _name_, _year_, _milage_, _fuel type_ etc.
 - **[vehicle_prices.ipynb](vehicle_prices.ipynb)**: The Jupyter Notebook file where the data is processed, prediction model is built, optimized, evaluated 
 - **[Car Price Predictions.pdf](Car%20Price%20Predictions.pdf)**: The presentation file explaining the project and its results
 - **[explanation.html](explanation.html)**: Feature importance analysis with XAI for a sample
-- **[Dataset](dataset/Car%20Details%20v3.csv)**: Dataset used for predictions.
+- **[Dataset](dataset/Car%20details%20v3.csv)**: Dataset used for predictions.
 
 ## Project Stages
 
